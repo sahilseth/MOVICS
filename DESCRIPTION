@@ -18,7 +18,8 @@ Suggests:
     rmarkdown,
     kableExtra
 Remotes: 
-    github::maxconway/SNFtool@master, github::danro9685/CIMLR@R, github::Lothelab/CMScaller@master, github::davidgohel/officer@master
+    github::danro9685/CIMLR@R, github::Lothelab/CMScaller@master, github::davidgohel/officer@master
+# github::maxconway/SNFtool@master this code is outdated, with use CRAN
 Imports: 
     CIMLR,
     ClassDiscovery,
